@@ -34548,3 +34548,14 @@ A value is trying to be set on a copy of a slice from a DataFrame
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
 
 
+2023-09-18 20:45:57,381:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-18 20:45:57,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-18 20:45:57,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-18 20:45:57,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-18 20:46:12,532:WARNING:/var/folders/5f/2dk901xj21s3s5n6xmmn06v40000gn/T/ipykernel_2847/1213402536.py:9: FutureWarning: The default value of regex will change from True to False in a future version.
+  df['country'] = df['country'].str.replace(regex_2, '')
+

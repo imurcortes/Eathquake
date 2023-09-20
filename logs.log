@@ -34567,3 +34567,16 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2023-09-19 16:53:17,595:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-09-20 23:26:39,836:WARNING:/var/folders/5f/2dk901xj21s3s5n6xmmn06v40000gn/T/ipykernel_1569/1213402536.py:9: FutureWarning:
+
+The default value of regex will change from True to False in a future version.
+
+
+2023-09-20 23:30:38,436:WARNING:/var/folders/5f/2dk901xj21s3s5n6xmmn06v40000gn/T/ipykernel_1569/2648705434.py:2: SettingWithCopyWarning:
+
+
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+

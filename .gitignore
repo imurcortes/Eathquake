@@ -3,5 +3,5 @@ node_modules
 *.txt
 .env
 .sass-cache
+.gitattributes
 *.log
-.gitattributes 
